@@ -14,7 +14,7 @@ Hi, I’m Kyla Marie De Leon, a 4th year Computer Science student from Angeles U
   </a>
   <img width="12" />
   <a href="mailto:deleon.kylamariep@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="35" alt="Email" target="_blank"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="35" width="44" alt="Email" target="_blank"/>
   </a>
 </div>
 
