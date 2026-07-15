@@ -1,7 +1,7 @@
 <h2 align="center">Data Analyst & AI Engineer</h2>
 
 # 💫 About Me:
-Hi, I’m Kyla Marie De Leon, a 4th year Computer Science student from Angeles University Foundation. I’m passionate about building practical and meaningful tech solutions, whether it’s developing software, analyzing data, or exploring machine learning projects. I enjoy working on systems that make tasks easier, more efficient, and more accessible for people. I’m always learning, always improving, and always excited to turn ideas into real, working projects.
+Hi, I’m Kyla Marie De Leon, a Computer Science graduate from Angeles University Foundation. I’m passionate about building practical and meaningful tech solutions, whether it’s developing software, analyzing data, or exploring machine learning projects. I enjoy working on systems that make tasks easier, more efficient, and more accessible for people. I’m always learning, always improving, and always excited to turn ideas into real, working projects.
 
 # 🌐 Socials:
 <div align="left">
